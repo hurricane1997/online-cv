@@ -22,13 +22,6 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Chinese
-        level: Native
-
-      - idiom: English
-        level: Professional
-
     interests:
       - item: Signal Processing
         link:
@@ -38,6 +31,13 @@ sidebar:
 
       - item: System
         link:
+        
+     languages:
+      - idiom: Chinese
+        level: Native
+
+      - idiom: English
+        level: Professional
 
         
         
