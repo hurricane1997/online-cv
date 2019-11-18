@@ -22,12 +22,12 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Chinese
-        level: Native
-
-      - idiom: English
-        level: Professional
+#languages:
+#      - idiom: Chinese
+#        level: Native
+#
+#      - idiom: English
+#        level: Professional
         
         
     interests:
