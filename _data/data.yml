@@ -82,15 +82,17 @@ experiences:
       time: 2019.6 - Present
       company: Startup Hubs, San Francisco
       details: |
-          - Bullet point
-          - Bullet point
+          - Worked with Professor Xinyu Zhang on learning-based indoor localization.
+          - Reconstructed and refined the 3D model of the indoor environment.
+          - Simulated the propagation of the 2.4G electromagnetic wave in the 3D model.
 
     - role: Student Researcher
       time: 2017.4 - present
       company: Tsinghua University,
       details: |
-          - Bullet point
-          - Bullet point
+          - Worked with Professor Yuan Shen on vision-based localization.
+          - Investigated the cooperative SLAM.
+          - Investigated the bit allocation in vision-based localization with communication constraints.
 
 
 projects:
@@ -113,13 +115,13 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
